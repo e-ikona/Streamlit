@@ -37,7 +37,6 @@ if pilihan == "Home":
         
         **Petunjuk:**
 
-        1. **Unggah File:** Klik opsi "Unggah File" di sisi untuk mengunggah file data CSV Anda.
                 
         2. **Praproses Data:** Setelah mengunggah file, Anda dapat memilih kolom yang ingin dihapus jika diperlukan.
         
