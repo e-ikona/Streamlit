@@ -36,6 +36,8 @@ if pilihan == "Home":
         Aplikasi ini memungkinkan Anda untuk melakukan beberapa algoritma machine learning tingkat dasar.
         
         **Petunjuk:**
+
+        1. **Unggah File:** Klik opsi "Unggah File" di sisi untuk mengunggah file data CSV Anda.
                 
         2. **Praproses Data:** Setelah mengunggah file, Anda dapat memilih kolom yang ingin dihapus jika diperlukan.
         
